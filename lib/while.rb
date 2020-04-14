@@ -3,8 +3,6 @@ def using_while
   while levitation_force < 10 
     puts "You should increment your levitation force by 1"
     levitation_force += 1 
-	
-  #your code here
 end
 
 
